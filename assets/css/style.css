@@ -1,5 +1,19 @@
-*{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+.square{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1;
+}
+
+.mul3{
+    background-color: coral;
+}
+
+.mul5{
+    background-color: thistle;
+}
+
+.mul15{
+    background-color: violet;
 }
